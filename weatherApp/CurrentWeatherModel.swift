@@ -1,4 +1,10 @@
-
+//
+//  CurrentWeatherModel.swift
+//  weatherApp
+//
+//  Created by EceKaracantaon 6.06.2017.
+//  Copyright © 2017 EceKaracanta All rights reserved.
+//
 
 import UIKit
 import Alamofire

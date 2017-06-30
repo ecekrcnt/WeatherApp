@@ -1,4 +1,10 @@
-
+//
+//  AppDelegate.swift
+//  weatherApp
+//
+//  Created by EceKaracanta on 6.06.2017.
+//  Copyright © 2017 EceKaracanta. All rights reserved.
+//
 
 import UIKit
 

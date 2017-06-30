@@ -1,4 +1,10 @@
-
+//
+//  Api.swift
+//  weatherApp
+//
+//  Created by EceKaracantaY on 6.06.2017.
+//  Copyright © 2017 EceKaracanta All rights reserved.
+//
 
 import Foundation
 
